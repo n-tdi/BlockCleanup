@@ -1,0 +1,5 @@
+name: MapCleanup
+version: '1.0'
+main: world.ntdi.mapcleanup.MapCleanup
+api-version: 1.17
+authors: [ Ntdi ]
